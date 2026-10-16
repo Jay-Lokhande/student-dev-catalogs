@@ -3,9 +3,8 @@
 | I want… | Go to |
 | --- | --- |
 | **Start here (flowchart + links)** | [README.md](README.md) |
+| **Hub (this site on Pages)** | [jay-lokhande.github.io/student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) |
+| All sister catalogs | [resources/sister-repos.md](resources/sister-repos.md) |
+| **Sister Pages** | [hub](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai](https://jay-lokhande.github.io/ai-catalog/) · [coding](https://jay-lokhande.github.io/coding-platforms/) |
 | JSON list of catalogs | [data/catalogs.json](data/catalogs.json) |
-| GitHub Pages | [jay-lokhande.github.io/student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) |
-| OSS programs & hackathons | [oss-programs-and-hackathons](https://github.com/Jay-Lokhande/oss-programs-and-hackathons) |
-| AI tools | [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) |
-| Coding platforms | [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) |
 | Contribute | [CONTRIBUTING.md](CONTRIBUTING.md) |

@@ -4,9 +4,9 @@ One **starting point** for Jay-Lokhande’s linked catalogs — OSS programs, gr
 
 > **Scams:** Fake internships, grants, and “pay to apply” offers are everywhere. Start with [OSS scams guide](https://github.com/Jay-Lokhande/oss-programs-and-hackathons/blob/main/resources/scams-and-fake-internships.md) before trusting random DMs.
 
-**Navigation:** [NAVIGATION.md](NAVIGATION.md)
+**Navigation:** [NAVIGATION.md](NAVIGATION.md) · **Hub:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/)
 
-**Sister repos:** this repo is the **hub** — catalogs below.
+**Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Sister Pages:** [hub](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai](https://jay-lokhande.github.io/ai-catalog/) · [coding](https://jay-lokhande.github.io/coding-platforms/)
 
 ---
 
