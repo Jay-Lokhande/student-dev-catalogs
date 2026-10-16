@@ -4,7 +4,7 @@ One **starting point** for Jay-Lokhande’s linked catalogs — OSS programs, gr
 
 > **Scams:** Fake internships, grants, and “pay to apply” offers are everywhere. Start with [OSS scams guide](https://github.com/Jay-Lokhande/oss-programs-and-hackathons/blob/main/resources/scams-and-fake-internships.md) before trusting random DMs.
 
-**Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
+**Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [public-apis](https://jay-lokhande.github.io/public-apis/) · [design-for-devs](https://jay-lokhande.github.io/design-for-devs/) · [cloud-student](https://jay-lokhande.github.io/cloud-student/) · [maker-student](https://jay-lokhande.github.io/maker-student/) · [game-dev-student](https://jay-lokhande.github.io/game-dev-student/)
 
 ---
 

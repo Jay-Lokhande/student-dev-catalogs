@@ -2,7 +2,7 @@
   {
     "id": "hub",
     "name": "Student Dev Catalogs",
-    "tagline": "Hub — where to start",
+    "tagline": "Hub \u2014 where to start",
     "github": "https://github.com/Jay-Lokhande/student-dev-catalogs",
     "pages": "https://jay-lokhande.github.io/student-dev-catalogs/"
   },
@@ -26,6 +26,41 @@
     "tagline": "CTF, OWASP, bug bounty platforms",
     "github": "https://github.com/Jay-Lokhande/hack-safe",
     "pages": "https://jay-lokhande.github.io/hack-safe/"
+  },
+  {
+    "id": "public-apis",
+    "name": "Public APIs",
+    "tagline": "Open data and API portals",
+    "github": "https://github.com/Jay-Lokhande/public-apis",
+    "pages": "https://jay-lokhande.github.io/public-apis/"
+  },
+  {
+    "id": "design",
+    "name": "Design for Devs",
+    "tagline": "UI, Figma, accessibility",
+    "github": "https://github.com/Jay-Lokhande/design-for-devs",
+    "pages": "https://jay-lokhande.github.io/design-for-devs/"
+  },
+  {
+    "id": "cloud",
+    "name": "Cloud Student",
+    "tagline": "Cloud student credits",
+    "github": "https://github.com/Jay-Lokhande/cloud-student",
+    "pages": "https://jay-lokhande.github.io/cloud-student/"
+  },
+  {
+    "id": "maker",
+    "name": "Maker Student",
+    "tagline": "Hardware and makers",
+    "github": "https://github.com/Jay-Lokhande/maker-student",
+    "pages": "https://jay-lokhande.github.io/maker-student/"
+  },
+  {
+    "id": "gamedev",
+    "name": "Game Dev Student",
+    "tagline": "Engines and game jams",
+    "github": "https://github.com/Jay-Lokhande/game-dev-student",
+    "pages": "https://jay-lokhande.github.io/game-dev-student/"
   },
   {
     "id": "ai",
