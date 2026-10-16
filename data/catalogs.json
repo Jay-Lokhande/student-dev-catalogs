@@ -63,11 +63,11 @@
     "pages": "https://jay-lokhande.github.io/game-dev-student/"
   },
   {
-    "id": "sound",
-    "name": "Sound Student",
-    "tagline": "One-stop music, game audio, podcast, samples",
-    "github": "https://github.com/Jay-Lokhande/sound-student",
-    "pages": "https://jay-lokhande.github.io/sound-student/"
+    "id": "never-your-sounds",
+    "name": "Never Your Sounds",
+    "tagline": "Official student audio — never unofficial sounds",
+    "github": "https://github.com/Jay-Lokhande/never-your-sounds",
+    "pages": "https://jay-lokhande.github.io/never-your-sounds/"
   },
   {
     "id": "ai",
