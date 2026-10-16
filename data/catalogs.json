@@ -1,0 +1,30 @@
+[
+  {
+    "id": "hub",
+    "name": "Student Dev Catalogs",
+    "tagline": "Hub — where to start",
+    "github": "https://github.com/Jay-Lokhande/student-dev-catalogs",
+    "pages": "https://jay-lokhande.github.io/student-dev-catalogs/"
+  },
+  {
+    "id": "oss",
+    "name": "All You Have To Do Is Believe",
+    "tagline": "OSS programs, hackathons, scholarships",
+    "github": "https://github.com/Jay-Lokhande/oss-programs-and-hackathons",
+    "pages": "https://jay-lokhande.github.io/oss-programs-and-hackathons/"
+  },
+  {
+    "id": "ai",
+    "name": "All The AIs",
+    "tagline": "AI chat, APIs, local LLMs",
+    "github": "https://github.com/Jay-Lokhande/ai-catalog",
+    "pages": "https://jay-lokhande.github.io/ai-catalog/"
+  },
+  {
+    "id": "coding",
+    "name": "Code Platforms",
+    "tagline": "DSA, CP, MOOCs, cloud IDEs",
+    "github": "https://github.com/Jay-Lokhande/coding-platforms",
+    "pages": "https://jay-lokhande.github.io/coding-platforms/"
+  }
+]

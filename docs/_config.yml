@@ -1,0 +1,9 @@
+title: Student Dev Catalogs
+description: Hub for OSS programs, AI tools, and coding platforms
+theme: jekyll-theme-cayman
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
