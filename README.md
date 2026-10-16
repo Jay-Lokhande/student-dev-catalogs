@@ -36,7 +36,7 @@ flowchart TD
   cloud --> cloudRepo[cloud-student]
   maker --> makerRepo[maker-student]
   games --> gamesRepo[game-dev-student]
-  sound --> soundRepo[sound-student]
+  sound --> soundRepo[sound-student one-stop audio hub]
   safe --> scam[Read scams & fake internships]
   scam --> choose[Then: choose-a-program guide]
   choose --> ossRepo
@@ -62,7 +62,7 @@ Plain-text path:
 | **Cloud Student** | AWS / GCP / Azure student programs | [cloud-student](https://github.com/Jay-Lokhande/cloud-student) | [Read](https://jay-lokhande.github.io/cloud-student/) |
 | **Maker Student** | KiCad, Arduino, makerspaces | [maker-student](https://github.com/Jay-Lokhande/maker-student) | [Read](https://jay-lokhande.github.io/maker-student/) |
 | **Game Dev Student** | Godot, Unity, itch.io, jams | [game-dev-student](https://github.com/Jay-Lokhande/game-dev-student) | [Read](https://jay-lokhande.github.io/game-dev-student/) |
-| **Sound Student** | DAWs, game audio, legal samples | [sound-student](https://github.com/Jay-Lokhande/sound-student) | [Read](https://jay-lokhande.github.io/sound-student/) |
+| **Sound Student** | One-stop music, game audio, podcast, samples | [sound-student](https://github.com/Jay-Lokhande/sound-student) | [Read](https://jay-lokhande.github.io/sound-student/) |
 | **All The AIs** | Chat, coding AI, APIs, local LLMs, free tiers | [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) | [Read](https://jay-lokhande.github.io/ai-catalog/) |
 | **Code Platforms** | LeetCode, Codeforces, MOOCs, Replit, deploy | [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) | [Read](https://jay-lokhande.github.io/coding-platforms/) |
 | **Student Dev Catalogs** *(this hub)* | Links + “where to start” | [student-dev-catalogs](https://github.com/Jay-Lokhande/student-dev-catalogs) | [Read](https://jay-lokhande.github.io/student-dev-catalogs/) |
