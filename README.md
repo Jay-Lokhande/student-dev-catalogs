@@ -1,6 +1,6 @@
 # Student Dev Catalogs
 
-One **starting point** for Jay-Lokhande’s linked catalogs — OSS programs, grants, security learning, AI tools, and coding platforms. No duplicate tables here; each catalog owns its own README and JSON.
+One **starting point** for Jay-Lokhande’s linked catalogs — OSS programs, grants, security learning, AI tools, and coding platforms. No duplicate tables here; each catalog owns its own README and JSON. You can [Navigation](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 > **Scams:** Fake internships, grants, and “pay to apply” offers are everywhere. Start with [OSS scams guide](https://github.com/Jay-Lokhande/oss-programs-and-hackathons/blob/main/resources/scams-and-fake-internships.md) before trusting random DMs.
 
