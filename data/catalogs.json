@@ -14,6 +14,20 @@
     "pages": "https://jay-lokhande.github.io/oss-programs-and-hackathons/"
   },
   {
+    "id": "grants",
+    "name": "Build Grants",
+    "tagline": "FOSS and security grants",
+    "github": "https://github.com/Jay-Lokhande/build-grants",
+    "pages": "https://jay-lokhande.github.io/build-grants/"
+  },
+  {
+    "id": "security",
+    "name": "Hack Safe",
+    "tagline": "CTF, OWASP, bug bounty platforms",
+    "github": "https://github.com/Jay-Lokhande/hack-safe",
+    "pages": "https://jay-lokhande.github.io/hack-safe/"
+  },
+  {
     "id": "ai",
     "name": "All The AIs",
     "tagline": "AI chat, APIs, local LLMs",
