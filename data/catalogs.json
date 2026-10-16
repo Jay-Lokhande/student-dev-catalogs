@@ -63,6 +63,13 @@
     "pages": "https://jay-lokhande.github.io/game-dev-student/"
   },
   {
+    "id": "sound",
+    "name": "Sound Student",
+    "tagline": "DAWs, game audio, legal samples",
+    "github": "https://github.com/Jay-Lokhande/sound-student",
+    "pages": "https://jay-lokhande.github.io/sound-student/"
+  },
+  {
     "id": "ai",
     "name": "All The AIs",
     "tagline": "AI chat, APIs, local LLMs",
